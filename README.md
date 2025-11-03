@@ -15,5 +15,8 @@ This project is a **token counting chatbot** built using **Meta-Llama-3-8B-Instr
    ```python
    from huggingface_hub import notebook_login
    notebook_login()
-```markdown
-![Chatbot Screenshot](assets/output.png)
+## 🖼️ Model Output
+Here’s the output visualization from the Meta-Llama-3-8B-Instruct Token Counter:
+
+![Model Output](https://github.com/Tejaskakade02/Token-counter-meta-llama-Meta-Llama-3-8B-Instruct/blob/main/output.png?raw=true)
+
