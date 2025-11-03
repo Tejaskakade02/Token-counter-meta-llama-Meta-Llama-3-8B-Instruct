@@ -15,3 +15,5 @@ This project is a **token counting chatbot** built using **Meta-Llama-3-8B-Instr
    ```python
    from huggingface_hub import notebook_login
    notebook_login()
+```markdown
+![Chatbot Screenshot](assets/output.png)
